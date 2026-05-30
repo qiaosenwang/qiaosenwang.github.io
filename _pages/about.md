@@ -11,7 +11,6 @@ I am a Ph.D. student in Statistics at the University of Chicago, co-advised by P
 
 ## Research Interests
 My research lies broadly at the intersection of statistical machine learning and information theory. I am particularly interested in understanding the fundamental limits of statistical estimation and inference, as well as developing methods that are theoretically optimal and practically reliable under minimal assumptions. Detailed topics include:
-- **Robust statistics**
-  Structured contamination mechnisms and smoothed adversaries beyond Huber's conservative formulation. Adaptive procedures for robust estimation and inference. Interaction between robustness, sparsity, and dependence.
-- **Ranking from pairwise comparisons**
-  Graph-specific optimality results. Models beyond Bradley--Terry--Luce.
+- **Robust statistics:** structured contamination mechnisms and smoothed adversaries beyond Huber's conservative formulation; adaptive procedures for robust estimation and inference; interaction between robustness, sparsity, and dependence.
+- **Ranking from pairwise comparisons:** graph-specific optimality results; models beyond Bradley--Terry--Luce.
+
