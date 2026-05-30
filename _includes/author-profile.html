@@ -28,12 +28,15 @@
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li style="display: flex; align-items: center; gap: 0.35em;">
-          <i class="fa fa-fw fa-university" aria-hidden="true"></i>
+        <li>
           {% if author.employer_url %}
-            <a href="{{ author.employer_url }}">{{ author.employer }}</a>
+            <a href="{{ author.employer_url }}" style="display: inline; white-space: nowrap;">
+              <i class="fas fa-fw fa-university icon-pad-right" aria-hidden="true"></i><span>{{ author.employer }}</span>
+            </a>
           {% else %}
-            <span>{{ author.employer }}</span>
+            <span style="white-space: nowrap;">
+              <i class="fas fa-fw fa-university icon-pad-right" aria-hidden="true"></i><span>{{ author.employer }}</span>
+            </span>
           {% endif %}
         </li>
       {% endif %}
