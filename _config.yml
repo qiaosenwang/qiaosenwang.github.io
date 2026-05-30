@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student in Statistics"
   location         : "Chicago, IL"
-  employer         : "University of Chicago"
+  employer         : '<a href="https://stat.uchicago.edu/people/qiaosen-wang/" target="_blank">University of Chicago</a>'
   uri              : # URL
   email            : "qswang(at)uchicago(dot)edu"   
   
