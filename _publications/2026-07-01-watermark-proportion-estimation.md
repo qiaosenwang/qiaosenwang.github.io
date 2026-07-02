@@ -3,7 +3,7 @@ title: "Sample Complexities of Estimating Gumbel--Max Watermark Proportions with
 collection: publications
 category: preprints
 authors: "<strong>Qiaosen Wang*</strong>, Shuwen Chai*"
-permalink: /publication/2025-07-01-watermark-proportion-estimation
+permalink: /publication/2026-07-01-watermark-proportion-estimation
 venue: "arXiv preprint"
 paperurl: "https://arxiv.org/abs/2607.00224"
 ---
