@@ -10,7 +10,8 @@ redirect_from:
 I am a Ph.D. student in Statistics at the University of Chicago, co-advised by Professor Cong Ma and Professor Chao Gao. Prior to joining UChicago, I received my undergraduate degree in Mathematics from School of the Gifted Young at University of Science and Technology of China.
 
 ## Research Interests
-My research lies broadly at the intersection of statistical machine learning and information theory. I am particularly interested in understanding the fundamental limits of statistical estimation and inference, as well as developing methods that are theoretically optimal and practically reliable under minimal assumptions. Detailed topics include:
+My research lies broadly at the intersection of statistical machine learning and information theory. I am particularly interested in understanding the fundamental limits of statistical estimation and inference in the non-asymptotic regime, as well as developing methods that are theoretically optimal and practically reliable under minimal assumptions. Detailed topics include:
 - **Robust statistics:** structured contamination mechnisms and smoothed adversaries beyond Huber's formulation; adaptive procedures for robust estimation and robust uncertainty quantification; interaction between robustness, sparsity, and dependence.
 - **Ranking from pairwise comparisons:** graph-specific optimality results; models beyond Bradley--Terry--Luce.
+- **Adaptation and instance-optimality:** shape-agnostic location estimation, confidence intervals, and regression adapted to the instance-optimal rates.
 
