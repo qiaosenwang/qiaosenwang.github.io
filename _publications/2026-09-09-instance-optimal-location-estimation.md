@@ -7,4 +7,5 @@ date: 2026-09-09
 authors: "<strong>Qiaosen Wang</strong>, Chao Gao"
 venue: "working manuscript"
 paperurl: "/files/slc_location_estimation.pdf"
+bibtexurl: "/files/slc_location_estimation.bib"
 ---
